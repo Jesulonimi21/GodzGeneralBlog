@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "472711140900",
+    "firebase_url": "https://obliino.firebaseio.com",
+    "project_id": "obliino",
+    "storage_bucket": "obliino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472711140900:android:d9b2c80ac327a26211aab1",
+        "android_client_info": {
+          "package_name": "com.ambgen.godzgeneralblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472711140900-iasu28r2kinen5cj5snuu0cjjobgmjh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyReZgzZ1rLJ-xVlTxT-vu3SE6sfFO518"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472711140900-iasu28r2kinen5cj5snuu0cjjobgmjh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472711140900:android:31908696b836864d11aab1",
+        "android_client_info": {
+          "package_name": "com.ambgen.naijahookup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472711140900-iasu28r2kinen5cj5snuu0cjjobgmjh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyReZgzZ1rLJ-xVlTxT-vu3SE6sfFO518"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472711140900-iasu28r2kinen5cj5snuu0cjjobgmjh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472711140900:android:537d1f687d5be4bd11aab1",
+        "android_client_info": {
+          "package_name": "com.ambgen.testnativeads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472711140900-iasu28r2kinen5cj5snuu0cjjobgmjh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyReZgzZ1rLJ-xVlTxT-vu3SE6sfFO518"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472711140900-iasu28r2kinen5cj5snuu0cjjobgmjh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472711140900:android:74489b2fcd22f42211aab1",
+        "android_client_info": {
+          "package_name": "com.jesulonimi.obliino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472711140900-5nrbg671qods14420heejb43cl2usvqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jesulonimi.obliino",
+            "certificate_hash": "30b9d67902f7f2f6794ce8028eb2879c2c640dff"
+          }
+        },
+        {
+          "client_id": "472711140900-iasu28r2kinen5cj5snuu0cjjobgmjh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyReZgzZ1rLJ-xVlTxT-vu3SE6sfFO518"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472711140900-iasu28r2kinen5cj5snuu0cjjobgmjh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

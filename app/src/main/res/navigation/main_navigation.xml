@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/navigationBarFragment">
+
+    <fragment
+        android:id="@+id/navigationBarFragment"
+        android:name="com.ambgen.godzgeneralblog.fragments.NavigationBarFragment"
+        android:label="fragment_navigation_bar"
+        tools:layout="@layout/fragment_navigation_bar" />
+    <fragment
+        android:id="@+id/fullPostFragment"
+        android:name="com.ambgen.godzgeneralblog.fragments.FullPostFragment"
+        android:label="FullPostFragment" />
+</navigation>

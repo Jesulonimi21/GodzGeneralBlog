@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="colorSearchField">#6C63FF</color>
+    <color name="redProductColor">#fb7181</color>
+    <color name="darkColorBlue"> #0001FC</color>
+
+    <color name="colorGrey">#C4C4C4</color>
+    <color name="onboardColorBlue">#2E26D9</color>
+</resources>
