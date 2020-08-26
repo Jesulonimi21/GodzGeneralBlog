@@ -10,8 +10,8 @@ import retrofit2.converter.gson.GsonConverterFactory;
 import retrofit2.converter.scalars.ScalarsConverterFactory;
 
 public class ServiceBuilder {
-  //  public static final String URL="https://www.godzgeneralblog.com/wp-json/wp/v2/";
-public static final String URL="https://techcrunch.com/wp-json/wp/v2/";
+    public static final String URL="https://www.godzgeneralblog.com/wp-json/wp/v2/";
+//public static final String URL="https://techcrunch.com/wp-json/wp/v2/";
    public static Gson gson = new GsonBuilder()
             .setLenient()
             .create();

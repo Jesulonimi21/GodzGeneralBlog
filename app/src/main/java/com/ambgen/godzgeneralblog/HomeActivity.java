@@ -106,7 +106,7 @@ public class HomeActivity extends AppCompatActivity implements  HomeFragment.Hom
 
 
         allPostsCall = apiRequests.getNewsByPage("1",fields);
-        promotedNewsCall = apiRequests.promotedCategory("576602837",fields);
+        promotedNewsCall = apiRequests.promotedCategory("1",fields);
 
         Tovuti.from(this).monitor(new Monitor.ConnectivityListener(){
             @Override
@@ -324,6 +324,7 @@ public class HomeActivity extends AppCompatActivity implements  HomeFragment.Hom
         promotedNewsCall.clone().enqueue(new Callback<List<AllNewsModel>>() {
             @Override
             public void onResponse(Call<List<AllNewsModel>> call, Response<List<AllNewsModel>> response) {
+                Log.d("lonimiboss","loaded promoted news "+ response.body().get(0).getExcerpt());
                 PromoteNewsAdapter promoteNewsAdapter=new PromoteNewsAdapter(HomeActivity.this,response.body());
                 promoteRecycler.setAdapter(promoteNewsAdapter);
                 newsRepository.insert(response.body());
